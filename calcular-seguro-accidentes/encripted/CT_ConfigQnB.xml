@@ -1,0 +1,46 @@
+<CompoundTemplate xmlns="http://www.tridion.com/ContentManager/5.3/CompoundTemplate">
+  <TemplateInvocation>
+    <Template xlink:href="tcm:1106-112675-2048" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="Component To JSON" />
+    <TemplateParameters></TemplateParameters>
+  </TemplateInvocation>
+  <TemplateInvocation>
+    <Template xlink:href="tcm:1106-120771-2048" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="Add real field to config json" />
+    <TemplateParameters></TemplateParameters>
+  </TemplateInvocation>
+  <TemplateInvocation>
+    <Template xlink:href="tcm:1106-120774-2048" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="Get Encrypted Data Stack" />
+    <TemplateParameters>
+      <Parameters xmlns="http://www.fecron.com/TCMSchemas/Params/EncryptDataStack">
+        <init_vector xmlns="http://www.fecron.com/TCMSchemas/Params/EncryptDataStack">e675f725e675f725</init_vector>
+        <password xmlns="http://www.fecron.com/TCMSchemas/Params/EncryptDataStack">Pass@word1</password>
+        <salt xmlns="http://www.fecron.com/TCMSchemas/Params/EncryptDataStack">S@1tS@1t</salt>
+      </Parameters>
+    </TemplateParameters>
+  </TemplateInvocation>
+  <TemplateInvocation>
+    <Template xlink:href="tcm:1106-120772-2048" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="Remove Fields From Json" />
+    <TemplateParameters>
+      <Parameters xmlns="uuid:bcb3b734-dbf7-4c41-86c3-337c801debfc">
+        <removable_fields>urlAnalytics,urlGoogleMaps,apiKeysGoogleMaps,urlRecaptcha,apiKeysRecaptcha,digitalData</removable_fields>
+      </Parameters>
+    </TemplateParameters>
+  </TemplateInvocation>
+  <TemplateInvocation>
+    <Template xlink:href="tcm:1106-289160-2048" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="AddJsonToComponentLinkFieldLTCF" />
+    <TemplateParameters></TemplateParameters>
+  </TemplateInvocation>
+  <TemplateInvocation>
+    <Template xlink:href="tcm:1106-112683-2048" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="DWC_ConfigQnB" />
+    <TemplateParameters></TemplateParameters>
+  </TemplateInvocation>
+  <TemplateInvocation>
+    <Template xlink:href="tcm:1106-112672-2048" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="Replace HTML" />
+    <TemplateParameters></TemplateParameters>
+  </TemplateInvocation>
+  <TemplateInvocation>
+    <Template xlink:href="tcm:1106-403-2048" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:title="Default Finish Actions" />
+    <TemplateParameters>
+      <Parameters xmlns="uuid:a13c5753-adfc-4e93-912f-ee3d93b6a828" />
+    </TemplateParameters>
+  </TemplateInvocation>
+</CompoundTemplate>

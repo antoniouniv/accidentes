@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ROOT>
+    <ENTIDAD>0003</ENTIDAD>
+    <ACTIVIDAD>EMISION</ACTIVIDAD>
+    <IDIOMA>es_ES</IDIOMA>
+    <SALIDAS>
+        <SALIDA>
+            <ID>LOCAL</ID>
+            <DOC>
+                <SUBDOC>
+                    <ID>OFERTA</ID>
+                    <COPIA>Ejemplar para la compañía</COPIA>
+                </SUBDOC>
+            </DOC>
+        </SALIDA>
+    </SALIDAS>
+    <DISTRIBUCION>
+        <DUPLEX_MODE>TRUE</DUPLEX_MODE>
+        <NUMERO_REFERENCIA>20743819/1007155334</NUMERO_REFERENCIA>
+        <LOCAL>
+            <BLOQUEAR_IMPRESION>NO</BLOQUEAR_IMPRESION>
+        </LOCAL>
+    </DISTRIBUCION>
+    <OFERTA>
+        <PAGINA_PORTADA>
+            <E10_C1_FONDO>[10_C1]_ESTUDIANTES.jpg</E10_C1_FONDO>
+            <E10_C2_TITULO>EDUCACIÓN TALENT</E10_C2_TITULO>
+            <E10_C3_TXT_RESUMEN>[10_C3]_TEXTO_PORTADA.rtf</E10_C3_TXT_RESUMEN>
+            <E10_C3_TXT_RESUMEN>[10_C3]_TEXTO_PORTADA_2.rtf</E10_C3_TXT_RESUMEN>
+            <E10_C4_LOGO>[10_C4]_LOGO_MAPFRE_FONDO_ROJO.jpg</E10_C4_LOGO>
+        </PAGINA_PORTADA>
+        <PAGINA_RESUMEN_ASEG>
+            <E20_C1_TITULO>ASEGURADORA GLOBAL</E20_C1_TITULO>
+            <E20_C2_TXT_RESUMEN>[20_C2]_TEXTO_RESUMEN.rtf</E20_C2_TXT_RESUMEN>
+            <E20_C3_IMG_MAPA>[20_C3]MAPAMUNDI.jpg</E20_C3_IMG_MAPA>
+            <E20_C4_IMG_INFERIOR>[20_C4]CIUDAD.jpg</E20_C4_IMG_INFERIOR>
+            <E20_C5_TXT_INFERIOR>Negocio en más de 100 países</E20_C5_TXT_INFERIOR>
+            <E20_C6_IMG_ICONO>[20_C6]_CLIENTES.jpg</E20_C6_IMG_ICONO>
+            <E20_C7_TXT_ICONO>29.000 millones</E20_C7_TXT_ICONO>
+            <E20_C6_IMG_ICONO>[20_C6]_EMPLEADOS.jpg</E20_C6_IMG_ICONO>
+            <E20_C7_TXT_ICONO>+35.000</E20_C7_TXT_ICONO>
+            <E20_C6_IMG_ICONO>[20_C6]_OFICINAS.jpg</E20_C6_IMG_ICONO>
+            <E20_C7_TXT_ICONO>+5.200</E20_C7_TXT_ICONO>
+            <E20_C6_IMG_ICONO>[20_C6]_INTERMEDIARIOS.jpg</E20_C6_IMG_ICONO>
+            <E20_C7_TXT_ICONO>+86.000</E20_C7_TXT_ICONO>
+        </PAGINA_RESUMEN_ASEG>
+        <PAGINA_EDUCACION>
+            <DATOS_CLIENTE>
+                <E40_C1_TITULO>DATOS DEL CLIENTE</E40_C1_TITULO>
+                <E40_C2_DATOSCLI_LIT>Tomador</E40_C2_DATOSCLI_LIT>
+                <E40_C3_DATOSCLI_VAL>DDD SDAFASD SDFSDF</E40_C3_DATOSCLI_VAL>
+                <E40_C2_DATOSCLI_LIT>Perfil del inversor</E40_C2_DATOSCLI_LIT>
+                <E40_C3_DATOSCLI_VAL>Prudente</E40_C3_DATOSCLI_VAL>
+            </DATOS_CLIENTE>
+            <CABECERA_EDUCACION>
+                <E30_C1_TITULO>GARANTIZA LA MEJOR EDUCACIÓN PARA TUS HIJOS</E30_C1_TITULO>
+                <E30_C2_IMG_FONDO>[30_C2]_FAMILIA.jpg</E30_C2_IMG_FONDO>
+                <E30_C3_TXT_EDUCACION>[30_C3]_TEXTO_ADICIONAL.rtf</E30_C3_TXT_EDUCACION>
+            </CABECERA_EDUCACION>
+            <DATOS_HIJOS>
+                <E50_C1_CAB>Nombres hijos</E50_C1_CAB>
+                <E50_C1_CAB>Objetivo Estudios</E50_C1_CAB>
+                <E50_C1_CAB>Años hasta inicio estudios</E50_C1_CAB>
+                <E50_C1_CAB>Importe Necesario</E50_C1_CAB>
+                <E50_C2_VAL>ddd</E50_C2_VAL>
+                <E50_C2_VAL>Universidad</E50_C2_VAL>
+                <E50_C2_VAL>4</E50_C2_VAL>
+                <E50_C2_VAL>8.000,00 €</E50_C2_VAL>
+            </DATOS_HIJOS>
+            <DATOS_SIMULACION>
+                <E60_C1_TXT_SIMULACION>[60_C1]_OBJETIVO_SIMULADO.rtf</E60_C1_TXT_SIMULACION>
+                <NEO_SIMULACION_IMPORTE>1.968,66 €/mes</NEO_SIMULACION_IMPORTE>
+                <E60_C3_LIT>Importe anual estimado destinado a ahorro:</E60_C3_LIT>
+                <E60_C4_VAL>1.968,65 €</E60_C4_VAL>
+                <E60_C3_LIT>Importe anual estimado destinado a riesgo (primer año):</E60_C3_LIT>
+                <E60_C4_VAL>53,64 €</E60_C4_VAL>
+            </DATOS_SIMULACION>
+            <PIE_EDUCACION>
+                <E65_C1_TXT_PIE>[65_C1]_NO_CONTRACTUAL.rtf</E65_C1_TXT_PIE>
+                <E65_C2_TXT_LEYENDA>[65_C2]_LEYENDA_EDUCACION.rtf</E65_C2_TXT_LEYENDA>
+                <E65_C3_ICO_ADVERTENCIA>[65_C3]_ADVERTENCIA.jpg</E65_C3_ICO_ADVERTENCIA>
+                <E65_C4_TXT_ADVERTENCIA>[65_C4]_TEXTO_ADVERTENCIA.rtf</E65_C4_TXT_ADVERTENCIA>
+            </PIE_EDUCACION>
+        </PAGINA_EDUCACION>
+        <PAGINA_RESUMEN_PRIMAS>
+            <CAB_RESUMEN_PRIMAS>
+                <E70_C1_TITULO>RESUMEN PRIMAS SEGURO</E70_C1_TITULO>
+                <E70_C2_TXT_RESUMEN>[70_C2]_RESUMEN_PRIMAS.rtf</E70_C2_TXT_RESUMEN>
+                <E70_C3_LIT>Número de proyecto</E70_C3_LIT>
+                <E70_C4_VAL>20743819 - 1007155334</E70_C4_VAL>
+                <E70_C3_LIT>Nombre del cliente</E70_C3_LIT>
+                <E70_C4_VAL>DDD SDAFASD SDFSDF</E70_C4_VAL>
+            </CAB_RESUMEN_PRIMAS>
+            <SEGURO_AHORRO>
+                <E80_C1_TITULO>Seguro de Ahorro</E80_C1_TITULO>
+                <E80_C2_LIT>Capital objetivo</E80_C2_LIT>
+                <E80_C3_VAL>8.000,00 €</E80_C3_VAL>
+                <E80_C2_LIT>Duración (años)</E80_C2_LIT>
+                <E80_C3_VAL>4</E80_C3_VAL>
+                <E80_C2_LIT>Forma pago prima</E80_C2_LIT>
+                <E80_C3_VAL>Anual</E80_C3_VAL>
+                <E80_C2_LIT>Prima a aportar total 1er año</E80_C2_LIT>
+                <E80_C3_VAL>1.968,65 €</E80_C3_VAL>
+            </SEGURO_AHORRO>
+            <SEGURO_VIDA>
+                <E90_C1_TITULO>Seguro de Vida</E90_C1_TITULO>
+                <E90_C2_LIT>Capital inicial (A)</E90_C2_LIT>
+                <E90_C3_VAL>7.877,00 €</E90_C3_VAL>
+                <E90_C2_LIT>Fecha de efecto</E90_C2_LIT>
+                <E90_C3_VAL>07/10/2020</E90_C3_VAL>
+                <E90_C2_LIT>Garantías a contratar</E90_C2_LIT>
+                <E90_C3_VAL>FCC + IAP</E90_C3_VAL>
+                <E90_C2_LIT>Coste anual estimado 1er año</E90_C2_LIT>
+                <E90_C3_VAL>53,64 € *</E90_C3_VAL>
+            </SEGURO_VIDA>
+            <RENTABILIDAD>
+                <E100_C1_TITULO>Rentabilidad anual supuesta perfil Prudente</E100_C1_TITULO>
+                <E100_C2_LIT_CAB>Año</E100_C2_LIT_CAB>
+                <E100_C2_LIT_CAB>Aportación anual</E100_C2_LIT_CAB>
+                <E100_C2_LIT_CAB>Aportado</E100_C2_LIT_CAB>
+                <E100_C2_LIT_CAB>PESIMISTA 1,70%</E100_C2_LIT_CAB>
+                <E100_C2_LIT_CAB>ESTIMADO 0,02%</E100_C2_LIT_CAB>
+                <E100_C2_LIT_CAB>OPTIMISTA 2,70%</E100_C2_LIT_CAB>
+                <E100_C3_VAL>1</E100_C3_VAL>
+                <E100_C3_VAL>1.968,65 €</E100_C3_VAL>
+                <E100_C3_VAL>1.968,66 €</E100_C3_VAL>
+                <E100_C3_VAL>1.968,66 €</E100_C3_VAL>
+                <E100_C3_VAL>1.968,66 €</E100_C3_VAL>
+                <E100_C3_VAL>1.968,66 €</E100_C3_VAL>
+                <E100_C3_VAL>2</E100_C3_VAL>
+                <E100_C3_VAL>1.968,65 €</E100_C3_VAL>
+                <E100_C3_VAL>3.937,32 €</E100_C3_VAL>
+                <E100_C3_VAL>3.970,79 €</E100_C3_VAL>
+                <E100_C3_VAL>3.937,71 €</E100_C3_VAL>
+                <E100_C3_VAL>3.990,47 €</E100_C3_VAL>
+                <E100_C3_VAL>3</E100_C3_VAL>
+                <E100_C3_VAL>1.968,65 €</E100_C3_VAL>
+                <E100_C3_VAL>5.905,98 €</E100_C3_VAL>
+                <E100_C3_VAL>6.006,95 €</E100_C3_VAL>
+                <E100_C3_VAL>5.907,16 €</E100_C3_VAL>
+                <E100_C3_VAL>6.066,87 €</E100_C3_VAL>
+                <E100_C3_VAL>4</E100_C3_VAL>
+                <E100_C3_VAL>1.968,65 €</E100_C3_VAL>
+                <E100_C3_VAL>7.874,64 €</E100_C3_VAL>
+                <E100_C3_VAL>8.077,73 €</E100_C3_VAL>
+                <E100_C3_VAL>7.877,00 €</E100_C3_VAL>
+                <E100_C3_VAL>8.199,34 €</E100_C3_VAL>
+            </RENTABILIDAD>
+            <PROYECCION>
+                <E110_C1_TITULO>Rentabilidad anual supuesta perfil Prudente</E110_C1_TITULO>
+                <E110_C2_LIT_CAB>Año</E110_C2_LIT_CAB>
+                <E110_C2_LIT_CAB>Capital estimado</E110_C2_LIT_CAB>
+                <E110_C3_VAL>0</E110_C3_VAL>
+                <E110_C3_VAL>7.877,00 €</E110_C3_VAL>
+                <E110_C3_VAL>1</E110_C3_VAL>
+                <E110_C3_VAL>5.908,34 €</E110_C3_VAL>
+                <E110_C3_VAL>2</E110_C3_VAL>
+                <E110_C3_VAL>3.939,29 €</E110_C3_VAL>
+                <E110_C3_VAL>3</E110_C3_VAL>
+                <E110_C3_VAL>1.969,84 €</E110_C3_VAL>
+            </PROYECCION>
+            <TEXTOS_RESUMEN>
+                <E120_C1_TXT_FINALES>[120_C1]_GARANTIAS.rtf</E120_C1_TXT_FINALES>
+                <E120_C1_TXT_FINALES>[120_C1]_FISCALIDAD.rtf</E120_C1_TXT_FINALES>
+            </TEXTOS_RESUMEN>
+            <PIE_RESUMEN_PRIMAS>
+                <E125_C1_TXT_PIE>[125_C1]_NO_CONTRACTUAL.rtf</E125_C1_TXT_PIE>
+                <E125_C2_TXT_LEYENDA>[125_C2]_LEYENDA_RESUMEN.rtf</E125_C2_TXT_LEYENDA>
+            </PIE_RESUMEN_PRIMAS>
+        </PAGINA_RESUMEN_PRIMAS>
+        <PAGINA_TE_CUIDAMOS>
+            <CAB_TE_CUIDAMOS>
+                <E130_C1_IMG_FONDO>[130_C1]_TE_CUIDAMOS.jpg</E130_C1_IMG_FONDO>
+                <E130_C2_TITULO>PROTEGE LO QUE MÁS TE IMPORTA, LA FAMILIA</E130_C2_TITULO>
+                <E130_C3_TXT_CAB>[130_C3]_SERVICIOS_EXCLUSIVOS.rtf</E130_C3_TXT_CAB>
+            </CAB_TE_CUIDAMOS>
+            <SERVICIOS>
+                <E140_C1_TITULO>Disfruta de todos estos servicios en cualquier momento</E140_C1_TITULO>
+                <E140_C2_SERV_IMG>[140_C2]_CEREBRO.jpg</E140_C2_SERV_IMG>
+                <E140_C3_SERV_TITULO>Orientación psicopedagógica</E140_C3_SERV_TITULO>
+                <E140_C4_SERV_TXT>[140_C4]_ORIENTACION_PSICO.rtf</E140_C4_SERV_TXT>
+                <E140_C2_SERV_IMG>[140_C2]_BIRRETE.jpg</E140_C2_SERV_IMG>
+                <E140_C3_SERV_TITULO>Búsqueda de las mejores universidades para tus hijos</E140_C3_SERV_TITULO>
+                <E140_C4_SERV_TXT>[140_C4]_BUSQUEDA_UNIVERSIDADES.rtf</E140_C4_SERV_TXT>
+                <E140_C2_SERV_IMG>[140_C2]_DOCUMENTOS.jpg</E140_C2_SERV_IMG>
+                <E140_C3_SERV_TITULO>Te ayudamos en todos los transmites necesarios</E140_C3_SERV_TITULO>
+                <E140_C4_SERV_TXT>[140_C4]_TRAMITES.rtf</E140_C4_SERV_TXT>
+            </SERVICIOS>
+            <FIDELIZACION>
+                <E150_C1_TXT_FIDELIZA>[150_C1]_FIDELIZA_CLIENTE.rtf</E150_C1_TXT_FIDELIZA>
+                <E150_C2_ICO_FIDELIZA>[150_C2]_ICO_TELEFONO.jpg</E150_C2_ICO_FIDELIZA>
+                <E150_C3_TXT_FIDELIZA>[150_C3]_CONTACTO.rtf</E150_C3_TXT_FIDELIZA>
+                <E150_C2_ICO_FIDELIZA>[150_C2]_ICO_COMPUTER.jpg</E150_C2_ICO_FIDELIZA>
+                <E150_C3_TXT_FIDELIZA>[150_C3]_WEB.rtf</E150_C3_TXT_FIDELIZA>
+                <E150_C2_ICO_FIDELIZA>[150_C2]_ICO_MOVIL.jpg</E150_C2_ICO_FIDELIZA>
+                <E150_C3_TXT_FIDELIZA>[150_C3]_APP.rtf</E150_C3_TXT_FIDELIZA>
+                <E150_C2_ICO_FIDELIZA>[150_C2]_ICO_OFICINA.jpg</E150_C2_ICO_FIDELIZA>
+                <E150_C3_TXT_FIDELIZA>[150_C3]_OFICINA.rtf</E150_C3_TXT_FIDELIZA>
+            </FIDELIZACION>
+        </PAGINA_TE_CUIDAMOS>
+        <PAGINA_PROTEC_DATOS>
+            <E160_C1_TITULO>INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS</E160_C1_TITULO>
+            <E160_C2_TXT_RGPD>[160_C2]_RGPD.rtf</E160_C2_TXT_RGPD>
+            <NEO_ENLACE_RGPD>http://www.mapfre.es/RGPD#/Docs/VIDESPPERCLIPART01401ESES02</NEO_ENLACE_RGPD>
+            <E160_C4_LOGO_MAPFRE>[160_C4]_LOGO_MAPFRE.jpg</E160_C4_LOGO_MAPFRE>
+            <E160_C5_LOGO_URL>[160_C5]_MAPFRE_URL.jpg</E160_C5_LOGO_URL>
+        </PAGINA_PROTEC_DATOS>
+    </OFERTA>
+</ROOT>

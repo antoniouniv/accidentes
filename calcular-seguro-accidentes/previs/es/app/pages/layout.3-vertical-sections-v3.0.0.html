@@ -1,0 +1,15 @@
+<div mfc-bus-shadow-box ng-if="viewApp" class="mfc-layout">
+  <mfc-bus-controller name-form="mfcForm">
+    <div ui-view="header" class="mfc-layout__header-container"></div>
+    <main role="main" class="container">
+
+      <div ui-view="content" class="mfc-layout__main-container row">
+        <!--section.mfc-layout__main-container__content.content.col-xs-12.col-sm-8.col-md-8.col-lg-8-->
+        <!--aside.mfc-layout__main-container__aside.aside.col-xs-12.col-sm-4.col-md-4.col-lg-4-->
+        <!--section.mfc-layout__main-container__fullwidth.fullwidth.col-xs-12.col-md-12.col-lg-12-->
+      </div>
+
+    </main>
+    <div ui-view="footer" class="mfc-layout__footer-container"></div>
+  </mfc-bus-controller>
+</div>
